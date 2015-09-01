@@ -51,6 +51,7 @@
     <Compile Include="SlidingTabScrollView.cs" />
     <Compile Include="Resources\SlidingTabScript.cs" />
     <Compile Include="Resources\EmptyClass.cs" />
+    <Compile Include="Layout2.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
